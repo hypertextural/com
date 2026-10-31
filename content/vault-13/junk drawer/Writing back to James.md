@@ -1,0 +1,15 @@
+OIDC is almost completely new to me, I had no idea it was overtaking SAML--and I just finally used SAML for something a couple years ago! It definitely sounds like a good place for something new. Are you thinking of something like a new protocol (and some service to support it) or more an umbrella to make managing the relations easier?
+
+Bootstrap is definitely still a thing, but I don't know what it's like to work with now. The classic problem with it was that it was hard to override after you started to grow out it and you ended up having to scrap the FE and start over. BUT that might be better now, and there's some new CSS stuff coming available called @layer which will just let you stick all of bootstraps styles in a single scope and override them in one go. So that's nice.
+
+I have mixed feelings about Tailwind. I like parts of the concept. I think "atomic css" is a good idea, and I think the way it gently nudges you into following a good color/type/sizing system with less play and fewer decisions to make is fantastic. The biggest downsides I see are that: 1) it isn't CSS, so you have to learn a different concept and the terminology isn't always the same; 2) it adds a build step that can just be a real pain in the ass sometimes; 3) it subverts the default style debugging model which is to say that it makes working on styles in the browser a hassle. The last one is really important to my workflow so it impacts me a lot but if you don't have that history it might not make a difference.
+
+Tailwind also has a UI component library you can buy, which can help you scaffold out some of the common UI elements quickly.
+
+Also, Tailwind has gotten _really_ popular so you see good support for it in surprising places. I think it would probably be a good option for you based on my guesses of what kind of things your making.
+
+I think the monolith/microservices thing could point a little bit to organizational structure, and that that can be interesting. I don't really know a ton about how work and people at the big tech companies get organized but I imagine "everything microservices" and "build your own platform" could be sensible reflections. I'm hoping to move into working with the government and how to fit infrastructure to bureaucracy is something I find myself wondering about a lot lately.
+
+I'm curious what your frontend will be geared towards. I don't know a lot about what your making so can't infer, but I might guess you're thinking of making something dashboard-y?
+
+RE Vercel, I do think it's a valid concern, but at least for now it's in a position where it's easy to exit. Netlify maintains support for deploying Next apps, and you can still bundle the whole thing up and deploy it the "regular" way i.e. sticking it on a server with a reverse proxy. The global overrides and peculiar patterns they're adding, though, do make it look like they're moving in a less portable direction.

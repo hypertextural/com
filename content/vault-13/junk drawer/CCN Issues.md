@@ -1,0 +1,12 @@
+- [x] EWG 
+	- ![[Screenshot 2025-03-31 at 8.32.33 PM.png]]
+- [x] Gift note
+	-  ![[Screenshot 2025-03-31 at 8.31.14 PM.png]]
+- [x] text too light, see: https://candconaturals.com/pages/about
+- [x] Title missing on product pagec
+- [ ] Quick checkout borks the nav bar.
+- [x] left aligned text, see: https://candconaturals.com/pages/philanthropy
+- [x] page too short, see: https://candconaturals.com/pages/returns-exchanges
+- [x] Yotpo broken on product page
+- [x] ingredients page styling: https://candconaturals.com/pages/ingredient-transparency-from-seed-to-skin
+	-  ![[Screenshot 2025-03-31 at 8.30.25 PM.png]]

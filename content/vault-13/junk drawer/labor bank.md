@@ -1,0 +1,1 @@
+Distributed App / protocol to facilitate local exchange and share of goods and services 

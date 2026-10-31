@@ -1,0 +1,32 @@
+23.5
+
+We should have a GitHub / gitlab action that checks PR changes to estimate how much electricity will be used
+
+- [x] Water plants
+- [x] Empty litter boxes 
+- [x] Laundry away
+- [x] Loupe
+- [x] Test ink?
+- [x] Litter scoop
+- [x] Take out trash
+- [x] grab Disposables
+- [x] Put vac bac
+- [x] Find rice pot
+- [x] Clean bathrooms
+- [x] Get shaved thing
+- [x] Broom
+- [x] Dishes
+- [x] Vitamins
+- [x] Medicine
+- [x] Coffee stuff
+- [x] Clothes
+- [x] Toothvrush
+- [x] deoderant
+- [x] glasses Soap
+- [x] Computer & chargers
+- [x] HDMI 
+- [x] Comfort books
+- [x] Toe nails
+- [x] Mugs
+- [x] Wash Amanda’s cups
+- [ ] 

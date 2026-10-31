@@ -1,0 +1,18 @@
+- Utopian seed project
+	- Luanna Nesbitt
+- crop stories
+	- Taro coming fall
+- selection, of course, but also
+	- Roguing—the opposite, keep the undesirables out of gene pool
+- ?? Subjection to neglect?
+	- How much harm to babying or not 
+- Eva Steinberg - peanuts, anthropology
+- ?? F1 hybrids?
+- ?? Johnnys sterile? Who not
+- cause for initial farmer resistance to hybrids
+	- And why might gov’s subsidize hybrids specifically? Or Do they?
+- outcrossing, monecious
+	- Typically distances & counts available 
+- Appalachian seed collective
+- sept 14-16 ish
+- 

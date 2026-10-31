@@ -1,0 +1,13 @@
+# amanda
+- ~~Pencil sharpener~~ 
+- Super flexible drawing nib from that cactus guy
+- Lego fun or pretty thing?
+- Comfy clothing option?
+- Brass pen
+- Art print item
+- ~~Box for paint~~
+- Hat? Stetson?
+- Bag? Like a tote-y type?
+- Japanese pattern books. 
+- Spanish study—the one where you get your money back for finishing. 
+- 

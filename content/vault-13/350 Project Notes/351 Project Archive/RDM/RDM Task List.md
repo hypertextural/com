@@ -1,0 +1,29 @@
+ - [x] Take photo of the truncated text for email attachment.
+ - [x] Photo the weird category view thing, that the dongle doodad does.
+ - [x] Email with results from [[On BigCommerce Imports & Deletions]].
+ - [x] Look through notes in Ama-Iro for any little tasks that remain.
+ - [x] Make sure logged-out users can't see the core prices.
+ - [x] Stop categories from overflowing all huge.
+ - [x] Look for wrap ups on theme that can be done now.
+ - [x] Need to hide the core pricing at a theme level
+ - [x] Quick view might be broken.
+ - [x] "Log In For Pricing" on the list pages is a little weirdly placed--needs some jazzing.
+ - [x] The categories at the top of the list page could also use some jazzing.
+ - [x] Review billing situation
+ - [x] Review site in mobile context.
+	 - [x] weird space between "Add to Cart" and "Buy Now" buttons.
+	 - [x] weird space between twitter & mail share buttons
+	 - [x] categories on product list page should be restyled for mobile
+	 - [x] Logo too big on mobile, pushes cart icons down to new line
+	 - [x] Logo is fuzzy on mobile
+	 - [x] mega menu back button / breadcrumb looks bad
+	 - [x] the last banner card is below featured products on mobile
+	 - ~~slide carats, on e.g. featured products is a bit ugly 
+ - [x] ask them about the double space in `Core  Price`.
+ - [ ] Consider converting mega-menu to columns instead of flex *after the new categories are in*.
+ - [x] Start work figuring out how to store core/no-core/etc. variants.
+	 - [x] What variants exactly do we need?
+	 - [x] Should this plug into price lists?
+	 - [x] Can it be done with BC's built-in product variant structures?
+		 - [x] One possible issue with this was product revisions variants.
+	 - [x] What external process needs to be added for core stock keeping?

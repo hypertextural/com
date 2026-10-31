@@ -1,0 +1,2 @@
+- reading companion. OCR with highlighting. Situation is library book you can’t mark with marginalia. Or perhaps you want to make your marginalia indexable. 
+- Swift plain text accounting. 

@@ -1,0 +1,57 @@
+- Something I'm learning about!!
+- Travel Art setup (Amanda)
+- Object map for Aardonyx, i.e., interconnected content
+- Privilege (white) as a max heap
+- JS Proxy
+- Write about pens.
+	- e.g., super fancy illustration / photo / 3d model that reviews the 51 or other iconic pens in the style of an Apple product.
+- Why I was resistant to study computer science / become a programmer.
+- Frozen grapes Markov bot
+- Web Component: Custom States, e.g. `my-element:--error { }`.
+- Constructing an asynchronous API that implements a JS iterator so that you can easily loop a paged asynchronous list a la Stripe’s asynchronous for api
+- Optimized organizing of a justified image gallery (as a web component)
+	- Dijkstras
+	- DAG the Dijk because we have bounded scores
+	- Knuth Breaking algo that comes from typography
+	- Bonus: server render the WebC in Hugo/Go
+- Self organizing systems / fractal geo
+	- Boids
+	- ferns?
+	- Lungs?
+- Web components?
+- The Children Now map?
+- Turn mistakes into content.
+- Put a little game in my website console. 
+	- I wonder if I could put nethack in the console. 
+- Why does multiplying floats result in weird rounding errors. 
+- Unix permissions, octal
+- Browser APIs:
+- Import Maps
+- Custom Elements
+- Scroll Snapping
+- Scroll Linked Animations
+- View Transitions
+	- Cross-document transitions (super neat)
+	- Single-document transitions
+	- (Patch via Navigation API)
+- Els
+	- Dialog
+	- Details
+	- CSS Toggles
+- Hm??
+	- Badging API?
+	- WebShare API?
+	- Anchor Positioning?
+	- Container Queries
+	- Cascade Layers
+	- :user-valid
+	- Popover API
+	- Deferred Fetch
+	- Web Workers
+	- OffscreenCanvas
+	- WASM
+* WebiSabi:
+	* Pixel decay. Random color failure. Grows. 
+* How does garbage collection work 
+* Complements, binary subtraction and neg numbers without a sign bit
+

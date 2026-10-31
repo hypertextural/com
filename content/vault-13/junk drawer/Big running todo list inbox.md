@@ -1,0 +1,72 @@
+https://docs.google.com/spreadsheets/d/1qRhvZnOaDQeecr_qVFpDCKKK2iaoGmBcyFL58V1jsbU/edit?usp=drivesdk
+
+## Inbox
+
+Relocated to Things
+## Archive
+
+- ~~send EV a pussy willow picture~~
+- ~~Toilet seat fixing~~
+- [x] Get gate closer loop thing for pin to go through in back #hardware-store 
+- ~~Pitcher for Henry~~
+- ~~Death of Stalin~~
+- ~~Order paper towel holder for bath cab~~
+- ~~Stickers to bottles~~
+- ~~Add window to purchase list~~
+- ~~Clean the bathroom ceiling mildew.~~ 
+- ~~better mop?~~
+	- ~~Out mop is good, could maybe also use a flat mop?~~
+- ~~Recycle old apple watches~~
+	- ~~Print shipping labels~~
+	- ~~Package watches~~
+	- ~~drop off at mail location~~
+- ~~Email other site people.~~ 
+- ~~Junk drawer~~
+- ~~Silverware drawer~~
+- ~~Clean Litter Robot~~
+- ~~glue full bath litter box~~ 
+- ~~Get rug taken away~~
+- ~~Make Amanda a Dr Bird colonoscopy appointment.~~
+- ~~email doctor about ear & blood tests~~
+- ~~Rock cliff follow up~~ 
+- ~~Email about ac tab~~
+- ~~book Noonie & weasel~~
+- ~~laundry~~
+- ~~Glazier for back window~~
+- ~~Someone to clean dryer vent or learn to do ourselves~~ 
+- ~~Put an sister arts in pen room~~
+- ~~Put up tv~~
+- ~~Replace faucet valve~~
+- ~~Clean kitchen sink~~
+- [x] Add pots to purchase list #small #admin
+- [x] Put sweeps in doors.  #house #cold #efficiency 
+- [x] glaze living room window #house #cold #efficiency 
+- [x] Amanda’s grant documentation #admin #p-1 
+- [x] Reorg purchase list #admin 
+- [x] Finish building gate #house #cold #outside
+- [x] buy screws for fence #house #cold #outside #hardware-store
+- [x] Buy nut for Japanese saw #hardware-store 
+- [x] Return glazing & nuts #hardware-store 
+- [x] Finish screwing pickets #outside #cold 
+- [x] call tool library
+- [x] Should I adjust the auto feeder? #house #cold #efficiency 
+- [x] Clean bedroom radiator #house #cold #efficiency 
+- [x] Clean pens!!! #p-1 
+- [x] Consider if I can add outlets myself. #house 
+- [x] ***Review health & dental*** #p-critical #admin #time-sensitive deadline 12/8 midnight
+	- [x] Health: keep GEHA HDHP
+	- [x] Dental: 
+	- [x] Vision: 
+	- [x] FSA: probably should elect for LEX HCFSA
+		- [x] How much to elect?
+		- [x] HSA contribution is 2,000
+		- [x] my HSA contribution is 6750
+- [x] schedule Orange cat dental #p-1 #time-sensitive 
+- [x] ***Get basement ready for solar guy*** #p-1 #time-sensitive 
+	- [x] Dec 9 tues
+- [x] Cat lube #p-critical #time-sensitive 
+	- [x] 12/6
+	- [x] 12/13 
+	- [x] 12/20
+	- [x] 12/27
+- [x] Plant wildflowers at art box #outside #cold #time-sensitive 
