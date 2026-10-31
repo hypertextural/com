@@ -1,15 +1,18 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: Hypertextural
+  pageTitleSuffix: " | Hypertextural"
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
+    host: https://analytics.hypertextural.com
   locale: en-US
   baseUrl: hypertextural.com
   ignorePatterns:
     - private
+    - zk
+    - vault-13
     - templates
     - .obsidian
   theme:
@@ -118,7 +121,7 @@ plugins:
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
-    enabled: false
+    enabled: true
   - source: "@quartz-community/unlisted-pages"
     enabled: true
     options: {}
@@ -266,14 +269,6 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-  - source: github:quartz-community/explicit-publish
-    enabled: true
-    options: {}
-    order: 50
-  - source: "@quartz-community/explicit-publish"
-    enabled: false
-    options: {}
-    order: 50
 layout:
   groups:
     toolbar:
