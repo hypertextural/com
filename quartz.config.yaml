@@ -266,12 +266,13 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-  - source: "github:quartz-community/obsidian-plugin-excalidraw"
+  - source: github:quartz-community/explicit-publish
     enabled: true
-    options:
-      enableInteraction: true
-      darkMode: auto
-      exportPadding: 20
+    options: {}
+    order: 50
+  - source: "@quartz-community/explicit-publish"
+    enabled: false
+    options: {}
     order: 50
 layout:
   groups:
