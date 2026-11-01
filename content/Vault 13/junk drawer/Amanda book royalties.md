@@ -1,0 +1,4 @@
+- hardcover 10% to 25,000 then 12.5%
+- Paperback 6.5% to 50,000 then 7%
+- Ebook 25%
+- Audiobooks ??

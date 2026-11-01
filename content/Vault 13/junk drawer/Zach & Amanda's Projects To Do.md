@@ -1,0 +1,6 @@
+- Make the pen boxes with the bamboo stacking things & the sticks. 
+- put basketball hoop on wood block
+- Fix Amanda’s tension lamp. 
+- fix birdhouse
+- Hang test tube rack
+- Conway’s game of life -> embroidered onto clothes

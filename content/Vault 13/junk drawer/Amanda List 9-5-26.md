@@ -1,0 +1,25 @@
+- mountain literary fest - 9/11-12
+	- Zach drive Amanda Friday, pick up Saturday night
+	- Make questions
+- Asheville SCBWI the weekend after, need portfolio
+	- Print
+	- Postcards
+- Melissa website
+- Lauren referral meeting for website: Labor Day 
+- Chronicle illustration 
+	- Due nov 1
+	- No idea how much work left
+	- Need to do three or four to get an idea of work needed remaining
+- Painting pens and converters
+	- Told Scott stuff for SF but got sick
+- Sketches to Crystal for fox fable
+	- Mid November 
+- Ho ho hangry dummy
+	- Miriam nagging
+- Organize desk
+- Proposal / ~3ch of YA proposal
+	- No timeline, just need to keep up momentum
+- Pack for Hawaii
+	- sep 20-28
+	- (Day after SCBWI)
+- 

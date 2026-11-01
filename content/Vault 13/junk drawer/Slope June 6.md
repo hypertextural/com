@@ -1,0 +1,18 @@
+- miss hatties okra
+- Seed growers conference
+- bud buchanan
+- tip layering — like a forced peanut but with branches 
+- Air layering — strip bark, then wrap a pot around it, basically 
+- century orchard — Apple conservatory ish
+- bittersweet nursery, only on FB
+- Nancy odenkirk
+	- From NC DoA, study for a couple years
+	- Psyllid to manage knotweed
+	- Released Wednesday (June 3)
+	- She grew the psyllids on the rhizomes here specifically
+	- Mantis & ladybugs are predators 
+- Knotweed prefers bacteria rich, but not fungally rich soil. Sheet mulching helps to get fungus going; this discourages the knotweed 
+- Comfry, biodynamic accumulator, miner, cut it before it flowers
+- Daffodils as mole sacrifice
+- Zev Friedman - Cooperate WNC
+	- Also earthhaven 

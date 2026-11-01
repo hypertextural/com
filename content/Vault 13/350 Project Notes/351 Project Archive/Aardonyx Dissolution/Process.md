@@ -1,0 +1,7 @@
+- [NC Articles of Dissolution](https://www.sosnc.gov/documents/forms/Business_Registration/limited_liability_companies/articles_of_dissolution.pdf)
+	- Write check & mail to: [[NC SOS Diss. Check To…]]
+- [NC Dissolution info page](https://www.sosnc.gov/divisions/business_registration/closing_nc_business)
+- You have 120 days to change your mind and file Articles of Revocation of Dissolution
+- [NCDOR out of business notification](https://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-forms-and-certificates/miscellaneous-forms/nc-bn-out-business-notification)
+- [Withdrawal of Assumed Name](https://www.sosnc.gov/documents/forms/Assumed_Business_Name/Withdrawal.pdf)
+- 

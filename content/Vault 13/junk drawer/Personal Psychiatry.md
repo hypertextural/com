@@ -1,0 +1,1 @@
+I have a recurring fear that I have incorrectly assessed my social situation. It’s like I have a blindness—a sort of third person blindness where I can’t tell if I’m correctly navigating social structures; can’t tell if I’m out of place. Have I been missing social cues? Have I been making a fool of myself? Have I been an asshole?

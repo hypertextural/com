@@ -1,0 +1,14 @@
+- [ ] haircuts for both
+- [ ] Socks for both 
+- [ ] Shoes - Birks, converse or something, kizik for Amanda 
+- [ ] Headphones
+- [ ] chair
+- [ ] Cat DNA test
+- [ ] Keyboard
+- [ ] Trackball? Ploopy?
+- [ ] whetstones / sink station
+- [ ] Half Hourglass
+- [ ] JS shirt
+- [ ] Cold brew setup
+- [ ] Better keytle
+- [ ] 

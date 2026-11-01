@@ -1,0 +1,26 @@
+- severance
+- Harley quinn
+- blue velvet
+- mulholland drive
+- Gay
+	- Hacks
+	- Hannah Einbinder
+	- Somebody Somewhere
+	- Lucy Liu Sherlock?
+- only angels have wings
+	- From Real Americans - Rachel khong
+- nice guys
+- Eurovision
+- Mitchels vs the machines 
+- Barbie
+- other john mulaney
+- ronny chiang
+- Anora
+- Andor
+- Mickey 17
+- The substance 
+- Last of us
+- righteous gemstones
+- Big Lebowski 
+- It’s what’s inside 
+- 

@@ -1,0 +1,1 @@
+Amanda sold her YA novel, so she’s limiting time with the business to focus more on her dream of being a writer and illustrator for children. Because of this, we are going to be greatly restricting our workload going forward, and are closing Aardonyx to limit the time and cost of the business overhead

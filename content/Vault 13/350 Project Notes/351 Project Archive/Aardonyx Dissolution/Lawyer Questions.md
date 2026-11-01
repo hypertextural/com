@@ -1,0 +1,13 @@
+- Laptops?
+	- Acct: these are mostly completely depreciated, they'll go to us in a draw.
+- Time to complete contracts?
+- Loan from ourselves
+	- This was a loan to shareholder, end of '22
+- Continue to do any work? Or does that just go to creditors?
+- Possible reflection on us personally in the future?
+- Do we need to publish the newspaper notice?
+	- Still unsure about this.
+- Didn't see anything in article 6 about "no asset" or "no distribution"
+- Does the business owe us money?
+	- Can we file claims against the business?
+

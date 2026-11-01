@@ -1,0 +1,22 @@
+- Us vs Billionaires
+	- Republican vs Democrat is a distraction
+	- Both of them are robbing us
+- Elon Musk does not care about you
+	- …is lying to you
+	- …is the richest man in the world
+	- …is tearing apart government agencies who oppose him
+	- …is stealing from you
+	- …is looting our government for a tax cut
+- The Billionaires are stealing/looting/dismantling (our)
+	- ………
+		- children's educations
+		- consumer protections
+		- medicaid
+		- funding for farms
+		- medical research
+		- FEMA money
+		- election security
+		- nuclear safeguards
+		- military
+	- …to give the richest 20% a ~$3,000,000,000,000 tax handout.
+	- …to give the richest 5% a ~$2,110,500,000,000 tax handout
