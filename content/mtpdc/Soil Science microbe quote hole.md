@@ -1,3 +1,8 @@
+---
+title: Stumbled upon reddit thread of folk marveling over soil diversity
+publish: true
+---
+
 I just happened upon these interesting threads while trying to verify something
 else. Emphasis is mine.
 
